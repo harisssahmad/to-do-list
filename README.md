@@ -1,5 +1,7 @@
-
 # To-Do List Application
+
+#### Important:
+This project was created when the collective programming skills of the entire group were in their infancy, and we are all much better programmers now :sweat_smile: Bugs are to be expected.
 
 #### Introduction:
 Created a To-Do list application that performs CRUD (Create, Read, Update, Delete) using a simple interface for my university's Programming Fundamentals semester project.
